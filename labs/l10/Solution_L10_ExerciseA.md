@@ -6,6 +6,7 @@ Webhook node
 
 HTTP REQUEST NODE
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/b792c8ff-fce8-4576-bc3e-6e8a421020fd" />
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/6151339a-1cf0-4249-aa58-ca4d6e19c8a9" />
 
 SET NODE
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/a70c8c5c-1712-4efe-8c8d-a5e5beaa02a6" />
