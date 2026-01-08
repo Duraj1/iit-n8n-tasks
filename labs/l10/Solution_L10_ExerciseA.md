@@ -5,7 +5,7 @@ Webhook node
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/88d77012-1197-4284-8f41-ede526e9b045" />
 
 HTTP REQUEST NODE
-<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/4f616cb4-92b6-45b6-8ef3-e6192471e50c" />
+<img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/b792c8ff-fce8-4576-bc3e-6e8a421020fd" />
 
 SET NODE
 <img width="3839" height="2159" alt="image" src="https://github.com/user-attachments/assets/a70c8c5c-1712-4efe-8c8d-a5e5beaa02a6" />
